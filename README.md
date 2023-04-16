@@ -1,5 +1,5 @@
 # Dynamic 15 Puzzle Solver
-The 15-puzzle has been an object of great mathemat-
+The 15-puzzle has been an object of great mathemat
 ical interest since its invention in the 1860s. The puzzle has 16
 square slots on a square board. The first 15 slots have square
 pieces; the 16th slot is empty. The object of the puzzle is to slide
