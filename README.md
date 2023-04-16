@@ -18,4 +18,4 @@ Puzzles with $N>=5$ are classified as an NP-complete problem and thus A-star is 
 
 ![image](https://user-images.githubusercontent.com/108145727/232346125-bf57ef0f-7c9d-437f-8e89-166f2eb6664d.png)
 
-
+This implementation has been tested on board sizes of size up to $N=9$ and succeeded in finding non-optimal solutions in under 1 second. The future of this repository is to create a web application that allows users to attempt to solve $N^2-1$ puzzles with button that visualizes the solution found by my solver.
